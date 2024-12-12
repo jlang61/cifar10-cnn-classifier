@@ -37,15 +37,7 @@ git clone https://github.com/jlang61/cifar10-cnn-classifier.git
 cd cifar10-cnn-classifier
 ```
 
-2. **Install Dependencies**
-
-Navigate to the project directory and install the required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. **Run the Notebook**
+2. **Run the Notebook**
 
 Launch Jupyter Notebook and open `cifar_cnn.ipynb`:
 
@@ -55,6 +47,6 @@ jupyter notebook
 
 Execute the cells in the notebook to train and evaluate the CNN model.
 
-4. **Viewing Results**
+3. **Viewing Results**
 
 The notebook includes visualizations of the training process and evaluation metrics. Review the plots and outputs to understand the model's performance.
